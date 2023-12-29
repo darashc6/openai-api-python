@@ -18,6 +18,6 @@ I would like to thank <strong>Andrei Dumitrescu</strong> for putting together th
 If you would like to get in touch with me, for any particular reason, please feel free to do so:
 
 * Email: [darashc6@gmail.com](mailto:darashc6@gmail.com)
-* Linkedin: [Darash Chablani](www.linkedin.com/in/darash-chablani)
+* Linkedin: [Darash Chablani](https://www.linkedin.com/in/darash-chablani)
 
 Thank you all! Happy learning! 🙂💻

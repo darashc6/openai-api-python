@@ -9,6 +9,7 @@ This is a repository I've created to document my learnings of Python. It will be
 1. <strong>[Python Quick Review](/01_python_quick_review/)</strong> - Contains simple Python revision, such as syntax, and working with JSON and HTTP requests.
 2. <strong>[REST API with Python](/02_rest_api_with_python/)</strong> - Simple REST API with CRUD operations, created with Python. Use of libraries such as FastAPI, Pydantic and TinyDB.
 3. <strong>[OpenAI API](/03_openai_api/)</strong> - Python files with basic usage of the OpenAI API. Includes text generation, embeddings, speech to text, text to speech and image generation examples.
+4. <strong>[Streamlit](/04_streamlit/)</strong> - Python file covering the main basics of Streamlit, a Python library used for building Web Interfaces.
 
 ### Credits
 I would like to thank <strong>Andrei Dumitrescu</strong> for putting together the following courses, which has helped me a lot during my learning. A lot of the projects in this repository are based from the courses below. Available on Udemy:

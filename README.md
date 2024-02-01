@@ -11,6 +11,7 @@ This is a repository I've created to document my learnings of Python. It will be
 3. <strong>[OpenAI API](/03_openai_api/)</strong> - Python files with basic usage of the OpenAI API. Includes text generation, embeddings, speech to text, text to speech and image generation examples.
 4. <strong>[Streamlit](/04_streamlit/)</strong> - Python file covering the main basics of Streamlit, a Python library used for building Web Interfaces.
 5. <strong>[Zero Shot Sentiment Analysis (Project)](/05_zero_shot_sentiment_analysis/)</strong> - Web App using Streamlit and the OpenAI API for zero-shot sentiment analysis. Users input text or emotions, and the app analyzes sentiment dynamically, offering a user-friendly interface.
+6. <strong>[ChatGPT Clone (Project)](/06_chatgpt_clone//)</strong> - Created a ChatGPT clone with Streamlit and the OpenAI API. The web app provides a user-friendly interface for engaging in dynamic conversations, powered by the OpenAI language model.
 
 ### Credits
 I would like to thank <strong>Andrei Dumitrescu</strong> for putting together the following courses, which has helped me a lot during my learning. A lot of the projects in this repository are based from the courses below. Available on Udemy:

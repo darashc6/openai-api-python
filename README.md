@@ -13,6 +13,7 @@ This is a repository I've created to document my learnings of Python. It will be
 5. <strong>[Zero Shot Sentiment Analysis (Project)](/05_zero_shot_sentiment_analysis/)</strong> - Web App using Streamlit and the OpenAI API for zero-shot sentiment analysis. Users input text or emotions, and the app analyzes sentiment dynamically, offering a user-friendly interface.
 6. <strong>[ChatGPT Clone (Project)](/06_chatgpt_clone/)</strong> - Created a ChatGPT clone with Streamlit and the OpenAI API. The web app provides a user-friendly interface for engaging in dynamic conversations, powered by the OpenAI language model.
 7. <strong>[Healthy Meal Planner (Project)](/07_healthy_meal_planner/)</strong> - Developed a Healthy Meal Planner using the OpenAI API, dynamically generating meal images for each plan.
+8. <strong>[YouTube Video Summary Generator (Project)](/08_yt_videos_summary_generator/)</strong> - Developed a Python YouTube Video Summary Generator. Extracts key details, providing concise and informative video summaries.
 
 ### Credits
 I would like to thank <strong>Andrei Dumitrescu</strong> for putting together the following courses, which has helped me a lot during my learning. A lot of the projects in this repository are based from the courses below. Available on Udemy:
